@@ -1,6 +1,10 @@
 
 # British Airways Reviews Dashboard
 
+
+<img width="1207" alt="Screenshot 2024-08-16 at 11 55 55 PM" src="https://github.com/user-attachments/assets/dd70118d-9dd1-4eff-be08-cf1831991fde">
+
+
 This Tableau dashboard provides a comprehensive analysis of British Airways customer reviews. It focuses on various aspects of the flying experience, such as cabin staff service, entertainment, food, ground service, seat comfort, and overall value for money. The dashboard allows for an in-depth exploration of customer sentiments across different categories and filters for a more tailored analysis.
 
 ## Overview
