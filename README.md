@@ -53,6 +53,4 @@ The data for this dashboard is sourced from customer reviews collected from Brit
 
 This dashboard serves as a powerful tool for analyzing customer feedback on British Airways. It helps in identifying areas of strength and opportunities for improvement, enabling data-driven decisions to enhance customer experience.
 
-## Author
 
-Created by [Your Name].
